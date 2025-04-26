@@ -59,7 +59,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-# sudo docker build -t imdb-spark-img .
-# sudo docker run -v /home/kovalbohdanxxx/usr/university/subjects/BigData/data:/data imdb-spark-img
-# sudo docker run -v <path_to_folder_with_dataset>:/data imdb-spark-img
